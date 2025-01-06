@@ -1,0 +1,3 @@
+C:/Users/belas/CLionProjects/labtest2/cmake-build-debug/CMakeFiles/labtest2.dir
+C:/Users/belas/CLionProjects/labtest2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/belas/CLionProjects/labtest2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
